@@ -42,6 +42,16 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 - It has a responsive design that is optimized to work seamlessly on different devices and features modal windows that are implemented using JavaScript
 - Check it out [here](https://github.com/Bababum95/russian-travel).
 
+### Mesto
+- This project is built using HTML, CSS, and JavaScript
+- Utilizes OOP concepts for its implementation
+- Additionally, Mesto was built using Webpack to optimize and bundle the code for production, and Babel was used to ensure cross-browser compatibility and transpile modern JavaScript features to older syntax. This ensures that the application is able to function properly on a variety of browsers and devices.
+- Enables users to manage their photos
+- Allows users to add, edit, and remove their photos
+- Permits users to like other users' photos
+- Check it out [here](https://github.com/Bababum95/russian-travel).
+- It was developed as part of the Yandex.Practicum curriculum
+
 ---
 
 ### :fire: My Stats:
