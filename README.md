@@ -49,7 +49,7 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 - Enables users to manage their photos
 - Allows users to add, edit, and remove their photos
 - Permits users to like other users' photos
-- Check it out [here](https://github.com/Bababum95/russian-travel).
+- Check it out [here](https://github.com/Bababum95/mesto).
 - It was developed as part of the Yandex.Practicum curriculum
 
 ---
