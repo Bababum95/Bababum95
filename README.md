@@ -45,7 +45,7 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bababum95&theme=dark&border_radius=10)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bababum95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![codewars](https://www.codewars.com/users/bababum/badges/large)](https://www.codewars.com/users/bababum)
 
 ---
 
