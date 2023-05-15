@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <!-- <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTIwMjQ0NjFmZDdhNDg4YzFmNWY2ZWEyNjdjZDI1OTI1ZmJlZjg1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="400">
 </div>
 
 ---
@@ -20,6 +21,7 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>
 </div>
+
 - React.js
 - Webpack / Gulp
 - HTML5
@@ -63,8 +65,8 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Bababum95&style=flat-square&color=blue" alt=""/>
 Feel free to contact me with any inquiries or collaboration opportunities.
+<img src="https://komarev.com/ghpvc/?username=Bababum95&style=flat-square&color=blue" alt=""/>
 
 ---
 
