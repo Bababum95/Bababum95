@@ -10,11 +10,6 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 ---
 
 ## Skills
-- React.js
-- Webpack / Gulp
-- HTML5
-- CSS3 / SCSS /SASS
-- JavaScript / TypeScript
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
@@ -25,6 +20,11 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>
 </div>
+- React.js
+- Webpack / Gulp
+- HTML5
+- CSS3 / SCSS /SASS
+- JavaScript / TypeScript
 
 ---
 
@@ -39,6 +39,15 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 - This project is an adaptive website built with HTML, CSS and JS.
 - It has a responsive design that is optimized to work seamlessly on different devices and features modal windows that are implemented using JavaScript
 - Check it out [here](https://github.com/Bababum95/russian-travel).
+
+---
+
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bababum95&theme=dark&border_radius=10)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bababum95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+---
 
 ## Contact Me
 <div id="badges">
