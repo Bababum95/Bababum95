@@ -6,7 +6,9 @@
 
 ## Introduction
 Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a passion for creating clean, functional websites and applications that are accessible to everyone. This GitHub profile is where I showcase my work and progress in the development field.
+
 ---
+
 ## Skills
 - React.js
 - Webpack / Gulp
@@ -23,7 +25,9 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TS" width="40" height="40"/>
 </div>
+
 ---
+
 ## Projects
 ### My first project: How to learn
 - Created a website as a first step in learning HTML and CSS.
@@ -50,6 +54,8 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 </div>
 <img src="https://komarev.com/ghpvc/?username=Bababum95&style=flat-square&color=blue" alt=""/>
 Feel free to contact me with any inquiries or collaboration opportunities.
+
 ---
+
 ## Conclusion
 Thank you for taking the time to check out my GitHub profile. I am excited to grow my skills and experience in front-end development, and I look forward to sharing my progress with the community.
