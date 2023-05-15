@@ -43,15 +43,9 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 ---
 
 ### :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bababum95&theme=dark&border_radius=10)](https://git.io/streak-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bababum95&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark) -->
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bababum95&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bababum95&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bababum95&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bababum95&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bababum95&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bababum95&theme=transparent)
 
 [![codewars](https://www.codewars.com/users/bababum/badges/large)](https://www.codewars.com/users/bababum)
 
