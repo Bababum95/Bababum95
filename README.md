@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=ecf05e47nk5sfkr3z66pcpovdyoqyrjlst9k7pcev40d1f2g&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150"/>
+  <!-- <img src="https://media0.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif?cid=ecf05e47nk5sfkr3z66pcpovdyoqyrjlst9k7pcev40d1f2g&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="150"/> -->
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ViYzdiMWNkNTZlN2UzZDk0Yjg2NTgyN2FlYzUxOWZlNTllNmQ0OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3R9LDINpbGX2o/giphy.gif" width="400">
   <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTIwMjQ0NjFmZDdhNDg4YzFmNWY2ZWEyNjdjZDI1OTI1ZmJlZjg1NCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="400"> -->
 </div>
 
@@ -50,6 +51,22 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 - Allows users to add, edit, and remove their photos
 - Permits users to like other users' photos
 - Check it out [here](https://github.com/Bababum95/mesto).
+- It was developed as part of the Yandex.Practicum curriculum
+
+### Mesto React.js
+* This is my first React.js project that I completed as part of the Yandex.Practicum curriculum. The application includes the following features:
+- React Router for routing and navigation
+- Custom hooks and a Higher-Order Component for its implementation
+- OOP principles and a REST API for its backend functionality
+- Authentication features
+* The key functionalities of this application are:
+- Adding, removing, and editing user photos
+- Updating profile information such as avatar image, name, and description
+- Liking other users' photos
+* Other notable aspects of the project include: 
+- Webpack was utilized for bundling and optimizing code for production
+- Cross-browser compatibility was ensured through Babel
+- Check it out [here](https://github.com/Bababum95/react-mesto-auth).
 - It was developed as part of the Yandex.Practicum curriculum
 
 ---
