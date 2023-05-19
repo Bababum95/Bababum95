@@ -54,16 +54,16 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 - It was developed as part of the Yandex.Practicum curriculum
 
 ### Mesto React.js
-This is my first React.js project that I completed as part of the Yandex.Practicum curriculum. The application includes the following features:
+- This is my first React.js project that I completed as part of the Yandex.Practicum curriculum. The application includes the following features:
 - React Router for routing and navigation
 - Custom hooks and a Higher-Order Component for its implementation
 - OOP principles and a REST API for its backend functionality
 - Authentication features
-The key functionalities of this application are:
+- The key functionalities of this application are:
 - Adding, removing, and editing user photos
 - Updating profile information such as avatar image, name, and description
 - Liking other users' photos
-Other notable aspects of the project include: 
+- Other notable aspects of the project include: 
 - Webpack was utilized for bundling and optimizing code for production
 - Cross-browser compatibility was ensured through Babel
 - Check it out [here](https://github.com/Bababum95/react-mesto-auth).
