@@ -32,22 +32,18 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 ---
 
 ## Projects
-### My first project: How to learn
+### How to learn Check it out [here](https://github.com/Bababum95/how-to-learn).
 Technologies Used
 - HTML · CSS · BEM
 <!-- - Created a website as a first step in learning HTML and CSS.
 - Included basic interactivity through hover effects and clickable links.
 - Project resulted in a beginner level website using HTML, CSS, and BEM methodology. -->
-- Check it out [here](https://github.com/Bababum95/how-to-learn).
-
-### Russian Travel
+### Russian Travel Check it out [here](https://github.com/Bababum95/russian-travel).
 Technologies Used
 - HTML · CSS · JavaScript
 <!-- - This project is an adaptive website built with HTML, CSS and JS.
 - It has a responsive design that is optimized to work seamlessly on different devices and features modal windows that are implemented using JavaScript -->
-- Check it out [here](https://github.com/Bababum95/russian-travel).
-
-### Mesto
+### Mesto Check it out [here](https://github.com/Bababum95/mesto).
 Technologies Used
 - HTML · CSS · JavaScript · REST API · Webpack · Babel
 <!-- - This project is built using HTML, CSS, and JavaScript
@@ -56,9 +52,8 @@ Technologies Used
 - Enables users to manage their photos
 - Allows users to add, edit, and remove their photos
 - Permits users to like other users' photos -->
-- Check it out [here](https://github.com/Bababum95/mesto).
-
-### Mesto React.js
+### Mesto React.js Check it out [here](https://github.com/Bababum95/react-mesto-auth).
+Technologies Used
 - React.js · React Router · JavaScript · REST API
 <!-- - This is my first React.js project that I completed as part of the Yandex.Practicum curriculum. The application includes the following features:
 - React Router for routing and navigation
@@ -72,8 +67,6 @@ Technologies Used
 - Other notable aspects of the project include: 
 - Webpack was utilized for bundling and optimizing code for production
 - Cross-browser compatibility was ensured through Babel -->
-- Check it out [here](https://github.com/Bababum95/react-mesto-auth).
-
 ---
 
 ### :fire: My Stats:
