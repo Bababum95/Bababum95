@@ -91,9 +91,8 @@ Technologies Used
   </a>
 </div>
 Feel free to contact me with any inquiries or collaboration opportunities.
-<img src="https://komarev.com/ghpvc/?username=Bababum95&style=flat-square&color=blue" alt=""/>
-
 ---
 
 ## Conclusion
 Thank you for taking the time to check out my GitHub profile. I am excited to grow my skills and experience in front-end development, and I look forward to sharing my progress with the community.
+<img src="https://komarev.com/ghpvc/?username=Bababum95&style=flat-square&color=blue" alt=""/>
