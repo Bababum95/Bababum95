@@ -33,8 +33,14 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 
 ## Projects
 <div id="projects">
+  <a href="https://github.com/Bababum95/russian-travel">
+    <img width="145" src="./images/russian-travel.png">
+  </a>
   <a href="https://github.com/Bababum95/mesto">
     <img width="145" src="./images/mesto.png">
+  </a>
+  <a href="https://github.com/Bababum95/react-mesto-auth">
+    <img width="145" src="./images/mesto-react.png">
   </a>
 </div>
 <!-- ### How to learn. Check it out [here](https://github.com/Bababum95/how-to-learn).
