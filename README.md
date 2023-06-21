@@ -32,18 +32,18 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 ---
 
 ## Projects
-<div display="flex" style="display: flex; gap: 30px;">
-    <div style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
-      <img src="./images/mesto.png" alt="mesto ico" />
-      [Mesto](https://github.com/Bababum95/mesto)
+<ul style="display: flex; gap: 30px;">
+    <li style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
+      <img src="https://github.com/Bababum95/Bababum95/blob/main/images/mesto.png?raw=true" alt="mesto ico" />
+      <a href="https://github.com/Bababum95/mesto">Mesto</a>
       <p>HTML / CSS / JS Webpack / API</p>
-    </div>
-    <div style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
+    </li>
+    <li style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
       <img src="./images/mesto.png" alt="mesto ico" />
       <a href="https://github.com/Bababum95/mesto">Mesto</a>
       <p>HTML / CSS / JS Webpack / API</p>
-    </div>
-</div>
+    </li>
+</ul>
 <!-- ### How to learn. Check it out [here](https://github.com/Bababum95/how-to-learn).
 Technologies Used
 - HTML · CSS · BEM -->
