@@ -34,8 +34,9 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 ## Projects
 <div id="projects" style="display: flex; gap: 30px;">
     <p style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
+      <a href="https://github.com/Bababum95/mesto">
       <img src="https://github.com/Bababum95/Bababum95/blob/main/images/mesto.png?raw=true" alt="mesto ico" />
-      <a href="https://github.com/Bababum95/mesto">Mesto</a>
+      </a>
       <p>HTML / CSS / JS Webpack / API</p>
     </p>
     <div style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
