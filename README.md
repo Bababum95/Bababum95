@@ -32,29 +32,38 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 ---
 
 ## Projects
-### How to learn. Check it out [here](https://github.com/Bababum95/how-to-learn).
+<div style="display: flex; gap: 30px;">
+  <a href="https://github.com/Bababum95/mesto">
+    <div style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
+      <img src="./images/mesto.png" alt="mesto ico" />
+      <h3>Mesto</h3>
+      <p>HTML / CSS / JS Webpack / API</p>
+    </div>
+  </a>
+</div>
+<!-- ### How to learn. Check it out [here](https://github.com/Bababum95/how-to-learn).
 Technologies Used
-- HTML · CSS · BEM
+- HTML · CSS · BEM -->
 <!-- - Created a website as a first step in learning HTML and CSS.
 - Included basic interactivity through hover effects and clickable links.
 - Project resulted in a beginner level website using HTML, CSS, and BEM methodology. -->
-### Russian Travel. Check it out [here](https://github.com/Bababum95/russian-travel).
+<!-- ### Russian Travel. Check it out [here](https://github.com/Bababum95/russian-travel).
 Technologies Used
-- HTML · CSS · JavaScript
+- HTML · CSS · JavaScript -->
 <!-- - This project is an adaptive website built with HTML, CSS and JS.
 - It has a responsive design that is optimized to work seamlessly on different devices and features modal windows that are implemented using JavaScript -->
-### Mesto. Check it out [here](https://github.com/Bababum95/mesto).
+<!-- ### Mesto. Check it out [here](https://github.com/Bababum95/mesto).
 Technologies Used
-- HTML · CSS · JavaScript · REST API · Webpack · Babel
+- HTML · CSS · JavaScript · REST API · Webpack · Babel -->
 <!-- - This project is built using HTML, CSS, and JavaScript
 - Utilizes OOP concepts for its implementation
 - Additionally, Mesto was built using Webpack to optimize and bundle the code for production, and Babel was used to ensure cross-browser compatibility and transpile modern JavaScript features to older syntax. This ensures that the application is able to function properly on a variety of browsers and devices.
 - Enables users to manage their photos
 - Allows users to add, edit, and remove their photos
 - Permits users to like other users' photos -->
-### Mesto React.js. Check it out [here](https://github.com/Bababum95/react-mesto-auth).
+<!-- ### Mesto React.js. Check it out [here](https://github.com/Bababum95/react-mesto-auth).
 Technologies Used
-- React.js · React Router · JavaScript · REST API
+- React.js · React Router · JavaScript · REST API -->
 <!-- - This is my first React.js project that I completed as part of the Yandex.Practicum curriculum. The application includes the following features:
 - React Router for routing and navigation
 - Custom hooks and a Higher-Order Component for its implementation
