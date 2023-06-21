@@ -36,14 +36,20 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
   <!-- <a href="https://github.com/Bababum95/how-to-learn">
     <img width="140" src="./images/how-to-learn.png">
   </a> -->
+  <!-- <a href="https://github.com/Bababum95/mesto">
+    <img width="140" src="./images/mesto.png">
+  </a> -->
+  <a href="https://github.com/Bababum95/unite-react">
+    <img width="140" src="./images/unite-gaming.png">
+  </a>
   <a href="https://github.com/Bababum95/russian-travel">
     <img width="140" src="./images/russian-travel.png">
   </a>
-  <a href="https://github.com/Bababum95/mesto">
-    <img width="140" src="./images/mesto.png">
-  </a>
   <a href="https://github.com/Bababum95/react-mesto-auth">
-    <img width="125" src="./images/mesto-react.png">
+    <img width="140" src="./images/mesto-react.png">
+  </a>
+  <a href="https://github.com/Bababum95/tunehub">
+    <img width="125" src="./images/tunehub.png">
   </a>
 </div>
 <!-- ### How to learn
