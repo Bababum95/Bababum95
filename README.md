@@ -32,11 +32,10 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 ---
 
 ## Projects
-<div style="display: flex; gap: 30px;">
-  <a href="https://github.com/Bababum95/mesto">
+<div display="flex" style="display: flex; gap: 30px;">
     <div style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
       <img src="./images/mesto.png" alt="mesto ico" />
-      <a href="https://github.com/Bababum95/mesto">Mesto</a>
+      [Mesto](https://github.com/Bababum95/mesto)
       <p>HTML / CSS / JS Webpack / API</p>
     </div>
     <div style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
