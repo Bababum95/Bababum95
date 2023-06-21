@@ -36,10 +36,14 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
   <a href="https://github.com/Bababum95/mesto">
     <div style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
       <img src="./images/mesto.png" alt="mesto ico" />
-      <h3>Mesto</h3>
+      <a href="https://github.com/Bababum95/mesto">Mesto</a>
       <p>HTML / CSS / JS Webpack / API</p>
     </div>
-  </a>
+    <div style="border: 1px solid #D0D7DE; border-radius: 6px; padding: 10px;">
+      <img src="./images/mesto.png" alt="mesto ico" />
+      <a href="https://github.com/Bababum95/mesto">Mesto</a>
+      <p>HTML / CSS / JS Webpack / API</p>
+    </div>
 </div>
 <!-- ### How to learn. Check it out [here](https://github.com/Bababum95/how-to-learn).
 Technologies Used
