@@ -38,7 +38,7 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
     <img width="140" src="./images/unite-gaming.png">
   </a>
   <a href="https://github.com/Bababum95/movies-explorer">
-    <img width="140" src="./images/movies.png">
+    <img width="140" src="./images/movies-explorer.png">
   </a>
   <a href="https://github.com/Bababum95/react-mesto-full">
     <img width="140" src="./images/mesto-full.png">
