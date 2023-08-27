@@ -34,20 +34,17 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
 
 ## Projects
 <div id="projects">
-  <a href="https://github.com/Bababum95/unite-react">
-    <img width="140" src="./images/unite-gaming.png">
-  </a>
-  <a href="https://github.com/Bababum95/movies-explorer">
-    <img width="140" src="./images/movies-explorer.png">
-  </a>
-  <a href="https://github.com/Bababum95/react-mesto-full">
-    <img width="140" src="./images/mesto-full.png">
-  </a>
-  <a href="https://github.com/Bababum95/GifGalaxy">
-    <img width="140" src="./images/gif-galaxy.png">
-  </a>
+  <a href="https://github.com/Uniti-Gaming">
+    <img width="330" src="./images/unite.png">
+  </a>&nbsp;
+  <a href="https://github.com/Yandex-Practicum-projects">
+    <img width="330" src="./images/yandex.png">
+  </a>&nbsp;
+  <!-- <a href="https://github.com/Bababum95/react-mesto-full">
+    <img width="140" src="./images/test.png">
+  </a>&nbsp; -->
   <a href="https://github.com/Bababum95/tunehub">
-    <img width="125" src="./images/tunehub.png">
+    <img width="330" src="./images/tunehub.png">
   </a>
 </div>
 <!-- ### How to learn
