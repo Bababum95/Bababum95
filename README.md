@@ -41,7 +41,7 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
     <img width="330" src="./images/yandex.png">
   </a>&nbsp;
   <a href="https://github.com/test-work-task">
-    <img width="140" src="./images/test.png">
+    <img width="330" src="./images/test.png">
   </a>&nbsp;
   <a href="https://github.com/Bababum95/tunehub">
     <img width="330" src="./images/tunehub.png">
