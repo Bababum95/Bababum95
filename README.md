@@ -40,9 +40,9 @@ Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a
   <a href="https://github.com/Yandex-Practicum-projects">
     <img width="330" src="./images/yandex.png">
   </a>&nbsp;
-  <!-- <a href="https://github.com/Bababum95/react-mesto-full">
+  <a href="https://github.com/test-work-task">
     <img width="140" src="./images/test.png">
-  </a>&nbsp; -->
+  </a>&nbsp;
   <a href="https://github.com/Bababum95/tunehub">
     <img width="330" src="./images/tunehub.png">
   </a>
