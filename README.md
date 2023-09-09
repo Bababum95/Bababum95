@@ -7,7 +7,7 @@
 ---
 
 ## Introduction
-Hi, my name is Stepanov Andrei and I am a beginner front-end developer. I have a passion for creating clean, functional websites and applications that are accessible to everyone. This GitHub profile is where I showcase my work and progress in the development field.
+Hi, my name is Stepanov Andrei and I am a front-end developer. I have a passion for creating clean, functional websites and applications that are accessible to everyone. This GitHub profile is where I showcase my work and progress in the development field.
 
 ---
 
