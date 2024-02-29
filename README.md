@@ -56,7 +56,9 @@ Let's collaborate and create exceptional web experiences together!
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
 Feel free to contact me with any inquiries or collaboration opportunities.
+
 ---
 
 ## Conclusion
