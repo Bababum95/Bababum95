@@ -5,33 +5,20 @@
 ---
 
 ## Introduction
-Hi, I'm Stepanov Andrei, a versatile web developer with a strong passion for creating clean, functional websites and applications. My expertise lies in both front-end and back-end development, allowing me to craft comprehensive solutions.
 
----
+Hey there! I'm Stepanov Andrei, a versatile web developer passionate about building sleek, functional websites and applications. With expertise in both front-end and back-end development, I specialize in creating comprehensive solutions.
 
-## Skills
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="40" height="40"/>
-</div>
-
+🚀 Here's a snapshot of my tech stack:
 - React.js / Next.js
 - Redux / Redux Toolkit
 - Webpack / Gulp / Vite
 - CSS3 / SCSS / SASS
 - JavaScript / TypeScript
+- Node.js / Express.js
 - PHP / WordPress
 
----
+Let's collaborate and create exceptional web experiences together!
+
 
 ## Projects
 <div id="projects">
