@@ -19,7 +19,7 @@ Let's collaborate and create exceptional web experiences together!
 
 ## Projects
 <div id="projects">
-  <a href="https://github.com/Uniti-Gaming">
+  <a href="https://github.com/unite-gaming">
     <img width="330" src="./images/unite.png">
   </a>&nbsp;
   <a href="https://github.com/Yandex-Practicum-projects">
