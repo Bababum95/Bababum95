@@ -31,9 +31,9 @@ Let's collaborate and create exceptional web experiences together!
   <a href="https://github.com/Bababum95/tunehub">
     <img width="330" src="./images/tunehub.png">
   </a>
-</div> -->
+</div>
 
----
+--- -->
 
 ### :fire: My Stats:
 
