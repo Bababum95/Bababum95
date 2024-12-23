@@ -10,13 +10,13 @@ Hey there! I'm Andrew, a full-stack web developer passionate about crafting slee
 - CSS3 / SCSS / SASS
 - JavaScript / TypeScript
 - Node.js / Express.js
-- PHP / WordPress
 - MongoDB / MySQL
 
 Let's collaborate and create exceptional web experiences together!
 
 ---
 
+<!--
 ## Projects
 <div id="projects">
   <a href="https://github.com/unite-gaming">
@@ -31,11 +31,12 @@ Let's collaborate and create exceptional web experiences together!
   <a href="https://github.com/Bababum95/tunehub">
     <img width="330" src="./images/tunehub.png">
   </a>
-</div>
+</div> -->
 
 ---
 
 ### :fire: My Stats:
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bababum95&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bababum95&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bababum95&theme=transparent)
@@ -45,6 +46,7 @@ Let's collaborate and create exceptional web experiences together!
 ---
 
 ## Contact Me
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/andrei-stepanov-53636b256/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -62,6 +64,7 @@ Feel free to contact me with any inquiries or collaboration opportunities.
 ---
 
 ## Conclusion
+
 Thank you for taking the time to check out my GitHub profile. I am excited to grow my skills and experience in front-end development, and I look forward to sharing my progress with the community.
 
 <img src="https://komarev.com/ghpvc/?username=Bababum95&style=flat-square&color=blue" alt=""/>
