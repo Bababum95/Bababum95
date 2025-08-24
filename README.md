@@ -4,13 +4,11 @@ Hey there! I'm Andrew, a full-stack web developer passionate about crafting slee
 
 🚀 Here's a snapshot of my tech stack:
 
-- React.js / Next.js
-- Redux / Redux Toolkit
-- Webpack / Gulp / Vite
-- CSS3 / SCSS / SASS
-- JavaScript / TypeScript
-- Node.js / Express.js
-- MongoDB / MySQL / PostgreSQL / Strapi
+**Frontend:** React.js / Next.js / Redux Toolkit / TypeScript
+**Backend:** Node.js / Express.js / Strapi  
+**Databases:** MongoDB / PostgreSQL / MySQL  
+**Testing:** Jest / Playwright / Cypress  
+**DevOps:** Docker
 
 Let's collaborate and create exceptional web experiences together!
 
