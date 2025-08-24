@@ -10,7 +10,7 @@ Hey there! I'm Andrew, a full-stack web developer passionate about crafting slee
 - CSS3 / SCSS / SASS
 - JavaScript / TypeScript
 - Node.js / Express.js
-- MongoDB / MySQL
+- MongoDB / MySQL / PostgreSQL / Strapi
 
 Let's collaborate and create exceptional web experiences together!
 
